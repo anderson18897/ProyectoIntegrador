@@ -28,7 +28,7 @@ public class Creditos extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(386, 430));
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel1.setBackground(new java.awt.Color(64, 144, 119));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", Font.BOLD, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
@@ -40,30 +40,30 @@ public class Creditos extends javax.swing.JFrame {
 
         jLabel4.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("ING. JERSSON GEOVANY CASTILLO PÉREZ");
+        jLabel4.setText("       ING. RAUL ARMANDO JIMENEZ");
 
         jLabel5.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setText("CURSO: ESTADISTICA I");
+        jLabel5.setText("CURSO: INTEGRADOR 1");
 
-        jLabel6.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
+        jLabel6.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 10)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel6.setText("ALUMNO: WALTER ROBERTO ACUTA RUMPICH.");
+        jLabel6.setText("ALUMNOS: ANDERSON SANTANA / OSCAR CASTILLO");
 
         jLabel7.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel7.setText("CARNÉ   1990-19-4657");
+        jLabel7.setText("     UTP");
 
         jLabel8.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel8.setText("CICLO 4 SECCIÓN C");
+        jLabel8.setText("    CICLO 6");
 
         jLabel9.setFont(new java.awt.Font("Tahoma", Font.ITALIC, 12)); // NOI18N
         jLabel9.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel9.setText("CHIMALTENANGO MARTES, 27 DE OCTUBRE DE 2020");
+        jLabel9.setText("         VIERNES, 7 DE OCTUBRE DE 2022");
 
         jLabel10.setIcon(new javax.swing.ImageIcon(String.valueOf(getClass().getClassLoader().getResourceAsStream("Imagenes/logo.png")))); // NOI18N
-        jLabel10.setText("jLabel10");
+        jLabel10.setText("");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

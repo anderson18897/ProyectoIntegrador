@@ -176,7 +176,7 @@ public class Ventana extends javax.swing.JFrame {
         jButton6 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Desk-criptiva");
+        setTitle("Cálculo de estadística descriptiva");
         setPreferredSize(new java.awt.Dimension(1020, 600));
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
